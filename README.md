@@ -10,6 +10,10 @@
 - [Great Frontend, FE Sys design and interview prep](https://www.greatfrontend.com/)
 - [Lot of Programmning and rendering patterns](https://www.patterns.dev/)
 
+
+### Other Learning Resources
+- [No BS GIT (high quality, indepth git learning article)](https://maciejb2k.github.io/no-bs-git/#)
+
 ### Icons
 - [Lucid Icons](https://lucide.dev/)  
 
